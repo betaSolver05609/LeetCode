@@ -1,4 +1,4 @@
-#Array of products
+#Array of products 
 
 #Optimal Solution O(n) time and O(3*n)=O(n) space
 
